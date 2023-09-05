@@ -1,7 +1,27 @@
-### [Moto Repair](https://moto-repair.netlify.app/)
-#### [Clint Side Repository](https://github.com/saikat100/moto-repair-client)
-
 ###
+### Set .env:
+
+- [x] DB_USER=
+- [x] DB_PASS
+- [x] DB_NAME=
+
+# Installation
+
+```sh
+git clone https://github.com/saikat100/cloud-computing-project-server.git
+```
+Open terminals
+
+Terminal: Setting Up Backend 
+```sh
+npm install
+npm start
+```
+
+Now, The Backend API will be running at `localhost:5000`.
+
+<br>
+
 
 ![](images/Moto-Repair.png)
 
